@@ -7,9 +7,8 @@
 ### Disruptions in Health Screening and Their Impact on Chronic Disease Management During the COVID-19 Pandemic: Evidence from Korea
 
 - Authors: [Sok Chul Hong](https://sites.google.com/site/sokchulhong/), Inhyuk Hwang
+- [[Abstract\|Abstract]]
 
-> [!abstract]- Abstract
-> This study investigates the impact of the COVID-19 pandemic on national health screenings and subsequent changes in chronic disease management using the case of Korea, where strict quarantine policies were not implemented. We use pre-pandemic periods to estimate a counterfactual for screening rates during the pandemic. This approach reveals that the COVID-19 pandemic significantly reduced health screening rates in 2020. The decline was greater in groups more likely to benefit from screening, those at higher risk of chronic disease. Next, we analyze the impact of disruptions in screening on chronic disease management. To mitigate potential selection bias in screening, propensity score matching is employed. The results show that those who missed screenings could have initiated necessary healthcare to manage their chronic conditions if they had been screened. Delays in screening exacerbated the severity of disease when initiating treatment. These findings are robust to both the event study approach and the model that accounts for heterogeneity in the timing of screening across individuals. Overall, the health costs of the COVID-19 pandemic extend beyond the virus itself, as disruptions in preventive care may lead to long-term health consequences.
 
 ---
 ### The National Immunization Program for Children Expanded: Its Impact on Influenza Vaccination and Healthcare Use
